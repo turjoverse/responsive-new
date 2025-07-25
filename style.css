@@ -34,7 +34,7 @@ span{
     color: #E95A08;
 
 }
-/ responsive /
+
 @media screen and (max-width:576px) {}
 #home-link
 #shop-link
@@ -54,3 +54,26 @@ span{
 {
     margin-top: 10px;
 }
+.col-span-1 li a { text text-decoration: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+.icon-list {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.list-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+.icon {
+    width: 24px; 
+    height: 24px; 
+    margin-right: 10px; 
+}
+
