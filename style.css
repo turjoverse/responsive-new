@@ -35,6 +35,7 @@ span{
     color: #E95A08;
 
 }
+/ responsive /
 @media screen and (max-width:576px) {}
 #home-link
 #shop-link
@@ -49,3 +50,4 @@ span{
         
     }
 }
+
