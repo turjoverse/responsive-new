@@ -1,0 +1,51 @@
+nav ul {
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    list-style: none;
+    width: 40%;
+}
+li a {
+    text-decoration: none;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1140px;
+    margin: auto;
+}
+
+.parent-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 1140px;
+    margin-top: 10px;
+
+}
+.heading{
+font-weight: bold;
+
+}
+span{
+    color: #E95A08;
+
+}
+@media screen and (max-width:576px) {}
+#home-link
+#shop-link
+#about-us-link {
+    display: none;
+}
+#cart-link
+
+{
+    nav{
+        justify-content:space-between;
+        
+    }
+}
